@@ -1,9 +1,9 @@
 .presente{
     position: relative;
     display: flex;
-    width: 200px;
     flex-direction: column;
     align-items: center;
+   
 }
 
 .tampa{
@@ -30,6 +30,5 @@
     top: 40px;
     width: 90px;
     height: 15px;
-    background-color: red;
-
+    background-color: red
 }
